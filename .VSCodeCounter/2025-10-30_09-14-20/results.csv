@@ -1,0 +1,14 @@
+"filename", "language", "JavaScript", "HTML", "JavaScript JSX", "XML", "PostCSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/development/react/todo-list-pro/eslint.config.js", "JavaScript", 28, 0, 0, 0, 0, 0, 2, 30
+"/Users/darrellparkhouse/development/react/todo-list-pro/index.html", "HTML", 0, 13, 0, 0, 0, 0, 1, 14
+"/Users/darrellparkhouse/development/react/todo-list-pro/postcss.config.js", "JavaScript", 6, 0, 0, 0, 0, 0, 1, 7
+"/Users/darrellparkhouse/development/react/todo-list-pro/public/vite.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/App.css", "PostCSS", 0, 0, 0, 0, 0, 0, 1, 1
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/App.jsx", "JavaScript JSX", 0, 0, 9, 0, 0, 0, 5, 14
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/assets/react.svg", "XML", 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/components/TodoListPro.jsx", "JavaScript JSX", 0, 0, 186, 0, 0, 3, 28, 217
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/index.css", "PostCSS", 0, 0, 0, 0, 3, 0, 1, 4
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/main.jsx", "JavaScript JSX", 0, 0, 9, 0, 0, 0, 2, 11
+"/Users/darrellparkhouse/development/react/todo-list-pro/tailwind.config.js", "JavaScript", 10, 0, 0, 0, 0, 1, 1, 12
+"/Users/darrellparkhouse/development/react/todo-list-pro/vite.config.js", "JavaScript", 5, 0, 0, 0, 0, 1, 2, 8
+"Total", "-", 49, 13, 204, 2, 3, 5, 44, 320

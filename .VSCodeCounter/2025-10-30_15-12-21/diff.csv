@@ -1,0 +1,7 @@
+"filename", "language", "JavaScript JSX", "JavaScript", "PostCSS", "comment", "blank", "total"
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/App.jsx", "JavaScript JSX", -4, 0, 0, 0, -1, -5
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/components/AddTodoForm.jsx", "JavaScript JSX", 84, 0, 0, 0, 8, 92
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/components/TodoListPro.jsx", "JavaScript JSX", 351, 0, 0, 11, 15, 377
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/components/TodoListPro.styles.js", "JavaScript", 0, 406, 0, 0, 43, 449
+"/Users/darrellparkhouse/development/react/todo-list-pro/src/index.css", "PostCSS", 0, 0, 6, 0, 1, 7
+"Total", "-", 431, 406, 6, 11, 66, 920
